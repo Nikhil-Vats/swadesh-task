@@ -1,0 +1,22 @@
+@font-face {
+	font-family: "THICCCBOI";
+	src: url("/font/THICCCBOI-Regular.ttf");
+	font-weight: 400;
+	font-display: swap;
+}
+@font-face {
+	font-family: "THICCCBOI";
+	src: url("/font/THICCCBOI-Medium.ttf");
+	font-weight: 500;
+	font-display: swap;
+}
+@font-face {
+	font-family: "THICCCBOI";
+	src: url("/font/THICCCBOI-Bold.ttf");
+	font-weight: 700;
+	font-display: swap;
+}
+
+body {
+	font-family: "THICCCBOI";
+}

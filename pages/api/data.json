@@ -1,0 +1,81 @@
+{
+    "featured": {
+        "name": "The Pavilion III",
+        "location": "Outer Ring Road, Bangalore",
+        "funding": "64",
+        "area": "52,277",
+        "price": "12,338",
+        "yield": "9.14",
+        "returnTarget": "18.1",
+        "fundingStatus": "63",
+        "imgSrc": "/assets/p.png"
+    },
+    "past": [
+        {
+            "name": "The Pavilion III",
+            "location": "Outer Ring Road, Bangalore",
+            "funding": "100",
+            "area": "52,277",
+            "price": "12,338",
+            "yield": "9.14",
+            "returnTarget": "18.1",
+            "fundingStatus": "63",
+            "imgSrc": "/assets/p1.png"
+        },
+        {
+            "name": "The Pavilion III",
+            "location": "Outer Ring Road, Bangalore",
+            "funding": "100",
+            "area": "52,277",
+            "price": "12,338",
+            "yield": "9.14",
+            "returnTarget": "18.1",
+            "fundingStatus": "63",
+            "imgSrc": "/assets/p2.png"
+        },
+        {
+            "name": "The Pavilion III",
+            "location": "Outer Ring Road, Bangalore",
+            "funding": "100",
+            "area": "52,277",
+            "price": "12,338",
+            "yield": "9.14",
+            "returnTarget": "18.1",
+            "fundingStatus": "63",
+            "imgSrc": "/assets/p3.png"
+        },
+        {
+            "name": "The Pavilion III",
+            "location": "Outer Ring Road, Bangalore",
+            "funding": "100",
+            "area": "52,277",
+            "price": "12,338",
+            "yield": "9.14",
+            "returnTarget": "18.1",
+            "fundingStatus": "63",
+            "imgSrc": "/assets/p4.png"
+        },
+        {
+            "name": "The Pavilion III",
+            "location": "Outer Ring Road, Bangalore",
+            "funding": "100",
+            "area": "52,277",
+            "price": "12,338",
+            "yield": "9.14",
+            "returnTarget": "18.1",
+            "fundingStatus": "63",
+            "imgSrc": "/assets/p5.png"
+        },
+        {
+            "name": "The Pavilion III",
+            "location": "Outer Ring Road, Bangalore",
+            "funding": "100",
+            "area": "52,277",
+            "price": "12,338",
+            "yield": "9.14",
+            "returnTarget": "18.1",
+            "fundingStatus": "63",
+            "imgSrc": "/assets/p6.png"
+        }
+    ]
+}
