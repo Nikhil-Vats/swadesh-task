@@ -32,8 +32,13 @@ export default function Home({ data }) {
 	)
 }
 
+/* I used getServerSideProps because although the data here is static, in the actual app
+this data will update frequently and therefore should be fetched at each request.
+
+For this sample app, getStaticProps would have given better performance
+*/
 export async function getServerSideProps(context) {
-  const res = await fetch(`http://localhost:3000/api/getData`)
+  const res = await fetch(`https://swadesh-task-94tzpgg9z-nikhil-vats.vercel.app/api/getData`)
   const data = await res.json()
 
   if (!data) {
